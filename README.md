@@ -239,4 +239,4 @@ This repository serves as the official landing page for SQL Server 2005 SP2. The
 **Get the most recent version of SQL Server 2005 SP2 today!**
 
 ---
-**Last updated:** 2026-10-03 22:47:37 UTC
+**Last updated:** 2026-10-04 02:29:02 UTC
